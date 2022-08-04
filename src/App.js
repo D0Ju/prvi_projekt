@@ -8,7 +8,7 @@ function App() {
     <>
     <Router>
 
-    <Navbar ></Navbar>
+    <Navbar />
     <Routes>
       <Route path = '/' exact />
     </Routes>
